@@ -7,6 +7,6 @@
 - gaming
 
 **Operating System:** Windows 11
-**Browser:** Opera Gx
+**Browser:** Vivaldi
 
 **Code Editor:** Jetbrains IDE'S
